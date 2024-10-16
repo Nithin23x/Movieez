@@ -1,16 +1,26 @@
-## A Netflix Cloone 
+## A Netflix Clone 
 
 
-### Frontend - React.js, Zustand, Tailwind CSS,Axios,The Movie Database
-### Backend - Node.js,mongoose,express.js,MongoDB,JWT,Cloudinary,cookie-parser
+### Frontend - React.js, Zustand, Tailwind CSS,Axios
+### Backend - Node.js,mongoose,express.js,MongoDB,JWT,cookie-parser,The Movie Database
 
 
 ### Application Snapshots 
 ![Screenshot from 2024-10-16 20-48-43](https://github.com/user-attachments/assets/a7056f6f-102a-4427-887c-c4fb8e42b8b9) 
+
+
 ![Screenshot from 2024-10-16 20-49-30](https://github.com/user-attachments/assets/13021156-1d4f-41b0-a688-db7f7b722cd6)
+
+
 ![Screenshot from 2024-10-16 20-50-39](https://github.com/user-attachments/assets/07cc28ec-f11a-41e1-bfb7-518c8df31fee)
+
+
 ![Screenshot from 2024-10-16 20-51-34](https://github.com/user-attachments/assets/ef3f3f67-9845-493f-b0b4-f67ce48ecf02)
+
+
 ![Screenshot from 2024-10-16 20-50-29](https://github.com/user-attachments/assets/bbd6b6e9-1c96-4b51-b2b3-200bb8bceb40)
+
+
 ![Screenshot from 2024-10-16 20-51-53](https://github.com/user-attachments/assets/4b6f5589-9be9-47a8-a8b3-711b3c44f3ae)
 
 ### Some Features
